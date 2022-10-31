@@ -15,7 +15,7 @@ sections:
   label: Config
 upload_dir: uploads
 public_path: "/treent.ir/uploads"
-front_matter_path: "/treent.ir/uploads"
+front_matter_path: ''
 use_front_matter_path: true
 file_template: ":year:/:month:/:day:/:filename:"
 build:
